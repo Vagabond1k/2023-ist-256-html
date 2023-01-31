@@ -11,4 +11,4 @@ This is the first readme file
 https://www.google.com
 
 # Picture 
-![Picture](../greenpic.png)
+![Picture](../https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
